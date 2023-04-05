@@ -1,4 +1,4 @@
-package oopsBasics1;
+package creationalPattern.singletonPattern;
 
 public class PrivateConstructorDemo {
 
